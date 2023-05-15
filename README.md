@@ -1,1 +1,1 @@
-# pypoll
+In this project, Python will be used to automate the vote-counting process for an election.
